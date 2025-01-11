@@ -1,4 +1,4 @@
-# Bonjour ! Je suis Charlotte Albouy !👋
+# Bonjour 👋 Je suis Charlotte Albouy !
 ## 🚀 Developpeuse Web Full Stack Junior en formation
 
 #### 👩‍💻 Qui suis-je ?
