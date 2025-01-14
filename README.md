@@ -22,7 +22,7 @@ Développeuse Web Full Stack Junior, je suis actuellement en formation via le bo
 
     🤝 Projet d'équipe : Développé en équipe de 4 personnes avec la méthodologie Agile Scrum.
 </br>🎭 Rôle : Développement backend avec création d'une base de donnée, développement frontend.
-</br>🧰 Technologies : React.js , API REST (PokéAPI)
+</br>🧰 Technologies : React.js , MYSQL.
 </br>✨ Caractéristiques :
 </br>Wildy Gamy est une application présentant une salle d'arcade. Les joueurs peuvent participer à un jeu en ligne, remporter des lots et suivre leur progression en temps réel via leur profil personnalisé. La plateforme offre de nombreuses fonctionnalités : système de favoris, classements actualisés, catalogue des récompenses disponibles et accès à une large sélection de jeux d'arcade.
 </br>📆 Date : Janvier 2025 – En cours.
